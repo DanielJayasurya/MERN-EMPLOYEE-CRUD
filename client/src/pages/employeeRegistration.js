@@ -480,7 +480,7 @@ const EmployeeRegistration = () => {
                   <TableRow>
                     <TableCell colSpan={5}>
                       <Typography style={{ fontFamily: "poppins" }}>
-                        No Applicants to display
+                        No Employee to display
                       </Typography>
                     </TableCell>
                   </TableRow>
